@@ -9,7 +9,7 @@ table {
 }
 
 th {
-
+  padding: 0 5px;
 }
 
 tr:nth-child(2n + 1) {
